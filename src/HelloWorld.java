@@ -10,6 +10,11 @@ public class HelloWorld {
             System.out.println("Vi er på nr. " + i);
         }
 
+        System.out.println("Her tar Petra over tellingen;)");
 
+        for (int i =11 ; i<=20; i+=2) {
+
+            System.out.println("Vi er på nr. " + i);
+        }
     }
 }
