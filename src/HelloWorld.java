@@ -7,7 +7,7 @@ public class HelloWorld {
 
         for (int i =0 ; i<=10; i+=2) {
 
-            System.out.println("Vi er på nr " + i);
+            System.out.println("Vi er på nr. " + i);
         }
 
 
